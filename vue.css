@@ -529,8 +529,10 @@ table tr td:last-child {
     margin-bottom: 0;
 }
 
+/* 加粗显示 */
 #write strong {
-    padding: 0 1px;
+    padding: 0 2px;
+    color: rgb(255, 162, 211);
 }
 
 #write em {

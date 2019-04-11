@@ -675,9 +675,10 @@ table tr th:last-child,
 table tr td:last-child {
     margin-bottom: 0;
 }
-
+/* 加粗显示 */
 #write strong {
-    padding: 0px 1px 0 1px;
+    padding: 0 2px;
+    color: rgb(255, 162, 211);
 }
 
 #write em {
